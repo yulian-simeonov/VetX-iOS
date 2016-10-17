@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TRACKING_ID</key>
+	<string>UA-74623588-1</string>
+	<key>CLIENT_ID</key>
+	<string>493342548223-pruhj4bst0knnei8r5u2j5o93pmsa2l7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.493342548223-pruhj4bst0knnei8r5u2j5o93pmsa2l7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCt3uDe1oQoIxDw8JAqXBiCSrlOMb8QjlI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>493342548223</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vetx.VetX</string>
+	<key>PROJECT_ID</key>
+	<string>vetx-1187</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vetx-1187.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:493342548223:ios:42fd3ed9dc1be6a5</string>
+	<key>DATABASE_URL</key>
+	<string>https://vetx-1187.firebaseio.com</string>
+</dict>
+</plist>
